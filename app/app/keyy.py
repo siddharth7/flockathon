@@ -1,0 +1,5 @@
+bot_token = 'f637eb75-eb5a-41e5-924c-92a1c949f98f'
+bot_user = 'u:Bn8iw4f8ix8b4iaf'
+app_id = '094ca916-61f9-4681-8552-5b7cccbe9922'
+app_secret = 'd5230762-9e7e-4f91-bcc5-48778c54ce9d'
+group_id = 'g:f22ab5d257b44c818867209433c39427'
