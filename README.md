@@ -1,4 +1,4 @@
-# flockathon
+# Flockathon
 Equalise
  - /eql in 
  - /eql all <amount>
